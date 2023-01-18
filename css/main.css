@@ -1,0 +1,178 @@
+@import url(common.css);
+@import url(header.css);
+@import url(footer.css);
+
+.banner {
+  background: #a9ae8d;
+  text-align: center;
+  width: 1470px;
+}
+.banner-heading h2 {
+  font-family: "Roboto" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-transform: uppercase;
+  color: #f6f4ec;
+  margin-top: 69px;
+}
+.banner-heading h1 {
+  font-family: "Roboto" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 64px;
+  color: #f6f4ec;
+  margin: 15px;
+}
+.banner-heading button {
+  background: #b45f4d;
+  width: 128px;
+  height: 48px;
+  border: none;
+  font-family: "Roboto" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 29px;
+  color: #ffffff;
+  margin: 37px 0px 51px;
+}
+.ad {
+  background: #f6f4ec;
+  height: 835px;
+}
+.ad-heading h2 {
+  font-family: "Roboto" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 39px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #b45f4d;
+  padding-top: 39px;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  margin: 44px 70px;
+}
+.card-content p {
+  font-family: "Roboto" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #b45f4d;
+}
+.right-left {
+  display: flex;
+  justify-content: space-between;
+}
+.right-left {
+  display: flex;
+  margin: 0px 70px;
+}
+.ad2 {
+  background-color: #e5e5e5;
+  position: relative;
+}
+.ad2 img {
+  margin: 40px 110px;
+  text-align: center;
+}
+.feel {
+  position: absolute;
+  background-color: #df9b7a;
+  width: 1220px;
+  height: 92px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  left: 110px;
+  bottom: 91px;
+}
+.right-c p {
+  font-family: "Roboto" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #f6f4ec;
+  margin-left: 30px;
+}
+.left-c p {
+  font-family: "Roboto" sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  color: #f6f4ec;
+  margin-right: 32px;
+}
+.opawka {
+  background-color: #f1d3b9;
+  display: flex;
+  justify-content: center;
+}
+.opa {
+  margin-top: 84px;
+  margin-bottom: 96px;
+}
+.text {
+  background: #f8f8f8;
+  width: 518px;
+  height: 582px;
+}
+.text {
+  margin-top: 160px;
+  margin-bottom: 172px;
+  margin-left: 53px;
+}
+.text h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 58px;
+  color: #b45f4d;
+  text-align: center;
+  margin-top: 50px;
+}
+.text p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  color: #b45f4d;
+  margin: 22px 52px 117px;
+}
+.end {
+  background: #e5e5e5;
+}
+.end h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 39px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #000000;
+  padding-top: 55px;
+}
+.imgs {
+    display: flex;
+    justify-self: center;
+}
+.imgs img {
+    margin: 25px 5px 40px;
+}
+.dumalo-logo img {
+    position: relative;
+    margin: 0px 4px -150px 4px;
+    padding: 0 91px 0;
+    height: 46px;
+}

@@ -1,0 +1,60 @@
+.footer {
+  background: #f6f4ec;
+  display: flex;
+  justify-content: space-between;
+}
+.footer li {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #b45f4d;
+  margin: 12px;
+}
+.footer-links {
+  display: flex;
+  padding: 64px 50px;
+}
+.link2 {
+  margin-left: 112px;
+}
+.subscribe p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 25px;
+  color: #c17c6c;
+}
+.subscribe button {
+  margin-top: 12px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 12px;
+  text-align: right;
+  text-transform: uppercase;
+  color: #b45f4d;
+  width: 500px;
+  height: 44px;
+  border: 2px solid #b5614d;
+  background-color: #f6f4ec;
+}
+.subscribe {
+  padding: 62px 86px;
+}
+.pla {
+  margin-top: 20px;
+}
+.endd {
+  background: #f6f4ec;
+  height: 70px;
+}
+.endd p {
+    margin-top: 20px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #c17c6c;
+}

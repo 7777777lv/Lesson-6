@@ -1,0 +1,49 @@
+.headingofdae p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  color: #f1d3b9;
+}
+.headingofdae {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #b36050;
+  height: 47px;
+}
+.navigations {
+  height: 70px;
+  background: #f6f4ec;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left-link ul {
+  display: flex;
+  margin: 0px 22px;
+}
+.link-item a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-transform: capitalize;
+  color: #b4604d;
+  margin: 0px 15px;
+}
+.dae-logo {
+  margin-right: 250px;
+}
+.right-link {
+  margin: 0px 22px;
+}
+.right-link a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  text-transform: capitalize;
+  color: #b4604d;
+  margin: 0px 10px;
+}
